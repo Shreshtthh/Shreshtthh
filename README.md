@@ -1,7 +1,7 @@
 # Shreshthhh
 
 
-// Building cool things for a decentralized future //
+ Building cool things for a decentralized future 
 
 
 ###  About Me
