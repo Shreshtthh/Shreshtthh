@@ -8,4 +8,4 @@
     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-
+I like learing advanced concepts, solving abstract problems and building software.
